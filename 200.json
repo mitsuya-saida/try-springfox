@@ -1,0 +1,13 @@
+{
+  "familyId": 3,
+  "familyName": "sato",
+  "updatetime": "2018-12-31T23:59:59.999+09:00",
+  "members": [
+    {
+      "memberId": 1,
+      "givenName": "taro",
+      "birthday": "1900-01-01",
+      "gender": "MALE"
+    }
+  ]
+}
