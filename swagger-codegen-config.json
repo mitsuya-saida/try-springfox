@@ -1,0 +1,8 @@
+{
+  "java8" : true,
+  "dateLibrary": "java8-localdatetime",
+  "apiPackage": "com.example.tryspringfox.client",
+  "modelPackage": "com.example.tryspringfox.model",
+  "library": "resttemplate",
+  "hideGenerationTimestamp": true
+}
